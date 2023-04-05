@@ -20,11 +20,14 @@
  * SOFTWARE.
  */
 
+package io.github.eocqrs.springframework.kafka.autoconfig;
 /**
- * Spring Boot eo-kafka.
- *
- * @author Aliaksei Bialiauski (abialiauski.dev@gmail.com)
- * @since 0.0.0
+ * @todo #4:60min/DEV EO Kafka Auto Configuration
  */
 
-package io.github.eocqrs.springframework.kafka;
+/**
+ * @author Aliaksei Bialiauski (abialiauski.dev@gmail.com)
+ * @since 0.0.3
+ */
+public class KafkaAutoConfig {
+}

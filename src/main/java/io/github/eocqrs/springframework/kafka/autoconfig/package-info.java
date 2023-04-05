@@ -21,10 +21,10 @@
  */
 
 /**
- * Spring Boot eo-kafka.
+ * Kafka Auto Config.
  *
  * @author Aliaksei Bialiauski (abialiauski.dev@gmail.com)
  * @since 0.0.0
  */
 
-package io.github.eocqrs.springframework.kafka;
+package io.github.eocqrs.springframework.kafka.autoconfig;
