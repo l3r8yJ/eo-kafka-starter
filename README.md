@@ -1,5 +1,4 @@
-<img alt="logo" src="spring.svg" height="100px" />
-<img alt="logo" src="eo-kafka.svg" height="100px" />
+<img alt="logo" src="spring.svg" height="70px" /> <img alt="logo" src="eo-kafka.svg" height="100px" />
 
 [![Managed By Self XDSD](https://self-xdsd.com/b/mbself.svg)](https://self-xdsd.com/p/eo-cqrs/eo-kafka?provider=github)
 
