@@ -19,7 +19,7 @@
 
 Project architect: [@h1alexbel](https://github.com/h1alexbel)
 
-[EO Kafka](https://github.com/eo-cqrs/spring-eo-kafka) in fashion of Spring Framework.
+[EO Kafka](https://github.com/eo-cqrs/eo-kafka) in fashion of Spring Framework.
 
 **How to use**. All you need is this (get the latest version [here](https://search.maven.org/artifact/io.github.eo-cqrs/spring-eo-kafka)):
 
